@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://127.0.0.1:27017/devconnector",
+  "jwtSecret": "secretToken",
+  "githubClientId": "c7678f3164006278b572",
+  "githubSecret": "5f0b5b99e0e99570f39fd1b59a5ab7532c59d179"
+}

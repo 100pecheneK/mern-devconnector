@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://misha:m23102001M@cluster0-m0wel.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretToken",
+  "githubClientId": "c7678f3164006278b572",
+  "githubSecret": "5f0b5b99e0e99570f39fd1b59a5ab7532c59d179"
+}
